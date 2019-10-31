@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Score">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAEAAAAQAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Tut03_main_v0.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="GameData">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAQAAAAAAIAAIAAAAAAEAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Tut03_main_v0.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="GameState">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Tut03_main_v0.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
